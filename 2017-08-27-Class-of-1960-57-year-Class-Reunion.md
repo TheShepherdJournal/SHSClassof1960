@@ -1,12 +1,12 @@
 ---
-title: Class of 1960 57 year Class Reunion
+title: 1960Classreunion
 layout: post
 author: 32bpwr3
 permalink: /class-of-1960-57-year-class-reunion/
 source-id: 1EB-_g072rZSPlpi3ppcej60fXQAX9cc58j__z_BW55w
 published: true
 ---
-## Class of 1960 57th Class Reunion
+## SHS Class of 1960 Celebrated 57 year Reunion
 
 ![image alt text]({{ site.url }}/public/b3xo3sYOqGgj4xwJyGnTUw_img_0.jpg)
 
