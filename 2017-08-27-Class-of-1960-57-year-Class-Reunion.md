@@ -18,5 +18,7 @@ Photos and copies of the *Blue Jay Notes* were on display.
 
 ![image alt text]({{ site.url }}/public/b3xo3sYOqGgj4xwJyGnTUw_img_1.jpg)
 
+![image alt text]({{ site.url }}/public/b3xo3sYOqGgj4xwJyGnTUw_img_2.png)
+
 [Edit in Google Docs](https://docs.google.com/document/d/1EB-_g072rZSPlpi3ppcej60fXQAX9cc58j__z_BW55w/edit?usp=sharing)
 
